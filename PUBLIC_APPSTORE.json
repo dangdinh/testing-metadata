@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "appStore": "PUBLIC_APPSTORE",
+    "bricks": [
+      {
+        "brick": {
+          "path": "/test/rubyHello",
+          "supportVersions": [
+            "tag/3.6.0-rc5",
+            "branch/prodigy-testing",
+            "commit/2625f776907f4c499d224ea33b089e3880272cd2"
+          ],
+          "whitelistDomains": [
+            {
+              "id": "staging2.intgdc.com",
+              "supportVersions": [
+                "commit/44971e1c593ba844a7a6a4078cf6fbe70de1ebda"
+              ]
+            },
+            {
+              "id": "staging1.intgdc.com",
+              "supportVersions": [
+                "branch/demo"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
