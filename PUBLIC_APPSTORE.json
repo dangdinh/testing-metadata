@@ -6,7 +6,6 @@
         "brick": {
           "path": "/test/rubyHello",
           "supportVersions": [
-            "tag/3.6.0-rc5",
             "branch/prodigy-testing",
             "commit/2625f776907f4c499d224ea33b089e3880272cd2"
           ],
