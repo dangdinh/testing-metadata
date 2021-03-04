@@ -12,7 +12,7 @@
           ],
           "whitelistDomains": [
             {
-              "id": "staging2.intgdc.com",
+              "id": "default",
               "supportVersions": [
                 "commit/44971e1c593ba844a7a6a4078cf6fbe70de1ebda"
               ]
