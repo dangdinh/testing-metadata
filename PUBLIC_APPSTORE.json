@@ -17,7 +17,7 @@
               ]
             },
             {
-              "id": "staging1.intgdc.com",
+              "id": "msf-grest*",
               "supportVersions": [
                 "branch/demo"
               ]
