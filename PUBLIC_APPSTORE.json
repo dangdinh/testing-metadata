@@ -29,7 +29,7 @@
         "brick": {
           "path": "/test/HelloApp",
           "supportVersions": [
-            "branch/demo",
+            "branch/demoX",
             "commit/318ef518a776c0ee367df40b0dc04ecbd113eba6"
           ],
           "whitelistDomains": [
