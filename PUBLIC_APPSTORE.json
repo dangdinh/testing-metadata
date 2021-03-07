@@ -24,6 +24,29 @@
             }
           ]
         }
+      },
+      {
+        "brick": {
+          "path": "/test/HelloApp",
+          "supportVersions": [
+            "branch/demo",
+            "commit/318ef518a776c0ee367df40b0dc04ecbd113eba6"
+          ],
+          "whitelistDomains": [
+            {
+              "id": "default",
+              "supportVersions": [
+                "commit/318ef518a776c0ee367df40b0dc04ecbd113eba6"
+              ]
+            },
+            {
+              "id": "msf-grest*",
+              "supportVersions": [
+                "branch/demo"
+              ]
+            }
+          ]
+        }
       }
     ]
   }
