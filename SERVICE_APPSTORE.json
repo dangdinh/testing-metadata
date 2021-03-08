@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "appStore": "PUBLIC_APPSTORE",
+    "bricks": [
+      {
+        "brick": {
+          "path": "/vietnam/default/ReadFile",
+          "supportVersions": [
+            "branch/prodigy-testing"
+          ],
+          "whitelistDomains": [
+            {
+              "id": "default",
+              "supportVersions": [
+                "commit/905294ff9719c2d6a8a8a43e148ccb9f71a140f4"
+              ]
+            },
+            {
+              "id": "msf-grest*",
+              "supportVersions": [
+                "branch/demo"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
