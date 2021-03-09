@@ -6,8 +6,8 @@
         "brick": {
           "path": "/test/rubyHello",
           "supportVersions": [
-            "branch/prodigy-testing",
-            "commit/2625f776907f4c499d224ea33b089e3880272cd2"
+            "branch/prodigy-testingX",
+            "*commit/2625f776907f4c499d224ea33b089e3880272cd2"
           ],
           "whitelistDomains": [
             {
