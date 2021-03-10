@@ -1,0 +1,16 @@
+{
+  "name"       : "lcm_bricks_training",
+  "version"    : "0.0.1",
+  "category"   : "api_tools",
+  "language"   : "ruby",
+  "tags"       : "exercise_brick",
+  "description" : "Get project users",
+  "created": "4-19-2020",
+  "is_live"    : true,
+  "executable" : "main.rb",
+   "author"   : {
+     "name" : "hungnguyen",
+     "email": "hungnguyen@gooddata.com"
+   },
+  "parameters" : []
+}
